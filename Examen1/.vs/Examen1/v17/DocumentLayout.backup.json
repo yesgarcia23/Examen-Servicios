@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\clases\\clsventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:clases\\clsventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\clases\\clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:clases\\clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\clases\\clsvivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:clases\\clsvivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\controllers\\viviendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:controllers\\viviendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\clases\\clstipovivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:clases\\clstipovivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\clases\\clsagencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:clases\\clsagencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\models\\vivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:models\\vivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\models\\tipovivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:models\\tipovivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\models\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:models\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\controllers\\agenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:controllers\\agenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\controllers\\tiposviviendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:controllers\\tiposviviendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Examen1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\models\\itm_viviendas.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|solutionrelative:models\\itm_viviendas.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2561D9E-4A16-4AEA-AD2F-AE192E8EEBD8}|Examen1.csproj|c:\\users\\user\\documents\\servicios web\\examen1_servicios\\examen1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vivienda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Vivienda.cs",
+              "RelativeDocumentMoniker": "Models\\Vivienda.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Vivienda.cs",
+              "RelativeToolTip": "Models\\Vivienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:05:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:05:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoVivienda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\TipoVivienda.cs",
+              "RelativeDocumentMoniker": "Models\\TipoVivienda.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\TipoVivienda.cs",
+              "RelativeToolTip": "Models\\TipoVivienda.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:05:36.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:02:59.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:56:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Examen1",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Examen1.csproj",
+              "RelativeDocumentMoniker": "Examen1.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Examen1.csproj",
+              "RelativeToolTip": "Examen1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-13T05:39:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Web.Release.config",
+              "RelativeDocumentMoniker": "Web.Release.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Web.Release.config",
+              "RelativeToolTip": "Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T05:39:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T05:37:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:37:08.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViviendasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\ViviendasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ViviendasController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\ViviendasController.cs",
+              "RelativeToolTip": "Controllers\\ViviendasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:04:26.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:03:52.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TIposViviendaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\TIposViviendaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TIposViviendaController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\TIposViviendaController.cs",
+              "RelativeToolTip": "Controllers\\TIposViviendaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:03:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:02:46.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgenciasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\AgenciasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgenciasController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Controllers\\AgenciasController.cs",
+              "RelativeToolTip": "Controllers\\AgenciasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:02:20.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:49:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Agencia.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Agencia.cs",
+              "RelativeDocumentMoniker": "Models\\Agencia.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\Agencia.cs",
+              "RelativeToolTip": "Models\\Agencia.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:39:23.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsCliente.cs",
+              "RelativeDocumentMoniker": "Clases\\clsCliente.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsCliente.cs*",
+              "RelativeToolTip": "Clases\\clsCliente.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:36:35.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsVenta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsVenta.cs",
+              "RelativeDocumentMoniker": "Clases\\clsVenta.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsVenta.cs*",
+              "RelativeToolTip": "Clases\\clsVenta.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:36:18.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsTipoVivienda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsTipoVivienda.cs",
+              "RelativeDocumentMoniker": "Clases\\clsTipoVivienda.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsTipoVivienda.cs*",
+              "RelativeToolTip": "Clases\\clsTipoVivienda.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:36:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsVivienda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsVivienda.cs",
+              "RelativeDocumentMoniker": "Clases\\clsVivienda.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsVivienda.cs*",
+              "RelativeToolTip": "Clases\\clsVivienda.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:35:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsAgencia.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsAgencia.cs",
+              "RelativeDocumentMoniker": "Clases\\clsAgencia.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Clases\\clsAgencia.cs*",
+              "RelativeToolTip": "Clases\\clsAgencia.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAA8wDoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:35:23.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITM_VIVIENDAS.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\ITM_VIVIENDAS.edmx",
+              "RelativeDocumentMoniker": "Models\\ITM_VIVIENDAS.edmx",
+              "ToolTip": "C:\\Users\\User\\Documents\\SERVICIOS WEB\\Examen1_Servicios\\Examen1\\Models\\ITM_VIVIENDAS.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\ITM_VIVIENDAS.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-13T04:29:49.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

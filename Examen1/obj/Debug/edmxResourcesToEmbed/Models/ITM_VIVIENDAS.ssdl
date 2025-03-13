@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ITM_VIVIENDASModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Agencia">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="direccion" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="telefono" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="telefono" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TipoVivienda">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="descripcion" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Venta">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fecha" Type="date" Nullable="false" />
+    <Property Name="precio" Type="decimal" Precision="15" Scale="2" Nullable="false" />
+    <Property Name="clienteId" Type="int" Nullable="false" />
+    <Property Name="viviendaId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Vivienda">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="numeroCuartos" Type="int" Nullable="false" />
+    <Property Name="numeroBanos" Type="int" Nullable="false" />
+    <Property Name="tamano" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="numPisos" Type="int" Nullable="false" />
+    <Property Name="accesorios" Type="text" Nullable="false" />
+    <Property Name="tipoViviendaId" Type="int" Nullable="false" />
+    <Property Name="agenciaId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Venta__clienteId__412EB0B6">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Venta" Type="Self.Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Venta">
+        <PropertyRef Name="clienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Venta__viviendaI__4222D4EF">
+    <End Role="Vivienda" Type="Self.Vivienda" Multiplicity="1" />
+    <End Role="Venta" Type="Self.Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vivienda">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Venta">
+        <PropertyRef Name="viviendaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Vivienda__agenci__3E52440B">
+    <End Role="Agencia" Type="Self.Agencia" Multiplicity="1" />
+    <End Role="Vivienda" Type="Self.Vivienda" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agencia">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Vivienda">
+        <PropertyRef Name="agenciaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Vivienda__tipoVi__3D5E1FD2">
+    <End Role="TipoVivienda" Type="Self.TipoVivienda" Multiplicity="1" />
+    <End Role="Vivienda" Type="Self.Vivienda" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoVivienda">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Vivienda">
+        <PropertyRef Name="tipoViviendaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ITM_VIVIENDASModelStoreContainer">
+    <EntitySet Name="Agencia" EntityType="Self.Agencia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TipoVivienda" EntityType="Self.TipoVivienda" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Venta" EntityType="Self.Venta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vivienda" EntityType="Self.Vivienda" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Venta__clienteId__412EB0B6" Association="Self.FK__Venta__clienteId__412EB0B6">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Venta" EntitySet="Venta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Venta__viviendaI__4222D4EF" Association="Self.FK__Venta__viviendaI__4222D4EF">
+      <End Role="Vivienda" EntitySet="Vivienda" />
+      <End Role="Venta" EntitySet="Venta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Vivienda__agenci__3E52440B" Association="Self.FK__Vivienda__agenci__3E52440B">
+      <End Role="Agencia" EntitySet="Agencia" />
+      <End Role="Vivienda" EntitySet="Vivienda" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Vivienda__tipoVi__3D5E1FD2" Association="Self.FK__Vivienda__tipoVi__3D5E1FD2">
+      <End Role="TipoVivienda" EntitySet="TipoVivienda" />
+      <End Role="Vivienda" EntitySet="Vivienda" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
